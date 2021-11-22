@@ -1,0 +1,33 @@
+body{
+    text-align:  center;
+    background-color: #016f32;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+h1{
+    color: goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+#startgame{
+background-color: goldenrod;
+color: #016f32;
+width: 200px;
+height: 100%;
+font-size: 20px;
+font-weight: bolder;
+}
+
+#newcard{
+    margin-top: 10px;
+    background-color: goldenrod;
+    color: #016f32;
+    width: 200px;
+    height: 100%;
+    font-size: 20px;
+    font-weight: bolder;   
+}
